@@ -18,7 +18,7 @@ Por el momento solo estoy trasteando y no tengo ni idea de la mitad de lo que ha
 *Plano de Bilbao levantado en 1874, tras la ruptura del asedio carlista por el [Grl. Concha], con quien no tengo parentesco alguno ni jamás he vivido en su calle.*
 
 Me gustaría darle un aspecto elegante y profesional porque ahora mismo es más soso que un pasillo de hospital. 
-Ya veremos como sigue la cosa... Espero poder dedicarle unos minutos cada día para contruirla y adencentarla poquito a poco.
+Ya veremos como sigue la cosa... Espero poder dedicarle unos minutos cada día para construirla y adencentarla poquito a poco.
 
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/

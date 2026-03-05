@@ -1,4 +1,4 @@
---- 
+---
 title: VÁZQUEZ
 nav_order: 1 
 ---

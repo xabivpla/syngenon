@@ -22,7 +22,7 @@ Ya veremos como sigue la cosa... Espero poder dedicarle unos minutos cada día p
 
 ## LISTA DE APELLIDOS
 
-[Vázquez](docs/apellidos/vazquez.md)
+[Vázquez](apellidos/vazquez)
 
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/

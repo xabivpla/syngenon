@@ -1,5 +1,5 @@
 ---
-title: Inicio
+title: Razón de ser
 layout: home
 ---
 # Razón de ser de esta web.

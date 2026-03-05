@@ -2,7 +2,7 @@
 title: Inicio
 layout: home
 ---
-#Razón de ser de esta web.
+# Razón de ser de esta web.
 Esta página web es una prueba con [Just the Docs] como base. Mi intención es convertir esta web en fácilmente accesible a cualquier persona interesada en mis antepasados por el simple hecho de que quizás sean también los suyos.
 
 Me gustaría volcar en ella todos los datos genealógicos de los que disponemos en casa tanto en papel, vídeo, texto y otras plataformas de pago para que, cuando alguien, quizás dentro de muchos años se pregunte por sus antepasados y busque sus apellidos en internet, pueda encontrarse con una página abierta, gratuita e intuitiva.

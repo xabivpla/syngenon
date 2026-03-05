@@ -15,7 +15,7 @@ Ha sido inspirada e influenciada por los [López, de Buenos Aires] y los [Ordó�
 Por el momento solo estoy trasteando y no tengo ni idea de la mitad de lo que hago en esta web. Por ejemplo, esto es una fotografía que más adelante cambiaré:
 
 ![Plano de Bilbao 1874](docs/imgs/mayo74bio.jpg)
-Plano de Bilbao levantado en 1874, tras la ruptura del asedio carlista por el [*Grl. Concha*], con quien no tengo parentesco alguno ni jamás he vivido en su calle.
+*Plano de Bilbao levantado en 1874, tras la ruptura del asedio carlista por el [Grl. Concha], con quien no tengo parentesco alguno ni jamás he vivido en su calle.*
 
 Me gustaría darle un aspecto elegante y profesional porque ahora mismo es más soso que un pasillo de hospital. 
 Ya veremos como sigue la cosa... Espero poder dedicarle unos minutos cada día para contruirla y adencentarla poquito a poco.

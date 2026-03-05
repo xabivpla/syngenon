@@ -24,4 +24,4 @@ Ya veremos como sigue la cosa... Espero poder dedicarle unos minutos cada día p
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [López, de Buenos Aires]: https://www.migenealogia.com.ar/
 [Ordóñez, de Pamplona]: https://www.geneaordonez.es/ordonez.php
-[*Grl. Concha*]: https://es.wikipedia.org/wiki/Manuel_Guti%C3%A9rrez_de_la_Concha_e_Irigoyen
+[Grl. Concha]: https://es.wikipedia.org/wiki/Manuel_Guti%C3%A9rrez_de_la_Concha_e_Irigoyen

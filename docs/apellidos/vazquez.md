@@ -1,4 +1,6 @@
-
+--- title: VÁZQUEZ
+nav_order: 1 
+---
 # VÁZQUEZ
 Apellido para nosotros tan común e importante como desconocido. Por eso voy a contar lo poco que sé que ocurrió, en relación a nuestra rama entre los años 1945-1965.
 

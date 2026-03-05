@@ -2,8 +2,8 @@
 # VÁZQUEZ
 Apellido para nosotros tan común e importante como desconocido. Por eso voy a contar lo poco que sé que ocurrió, en relación a nuestra rama entre los años 1945-1965.
 
+En España hay casi 300.000 personas con Vázquez como primer o segundo apellido, las zonas de máxima concentración están una en la frontera de Huelva y Badajoz y la otra en el corazón de Galicia, de donde viene el nuestro.
 ## Nuestra historia
-En España hay casi 300.000 personas con Vázquez como primer o segundo apellido, las zonas de máxima concentración están una en la frontera de Huelva y Badajoz y la otra en el corazón de Galicia, de donde viene el nuestro. 
 
 Poco sabemos sobre nuestra familia cuando aún vivía en Arzúa, me resuena algo de que los Vázquez habían hecho las américas y gracias a ello tenían una buena situación social y económica, pero uno de los hijos, Manuel, enamorado de Estrella Rivas contravino las órdenes de sus padres casándose con ella. Fue desheredado en el acto. No mucho más tarde moriría a la edad de 33 años. Con el marido muerto, y un niño de 5 años ¿y otro? solo nos podemos imaginar la difícil situación de Estrella.
 

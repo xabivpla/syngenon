@@ -9,7 +9,7 @@ Ha sido inspirada e influenciada por los [López, de Buenos Aires] y los [Ordó�
 
 Por el momento solo estoy trasteando y no tengo ni idea de la mitad de lo que hago en esta web. Por ejemplo: esto es una fotografía que más adelante cambiaré:
 
-![Plano de Bilbao tras el cerco carlista de 1874](imgs/mayo74bio.jpg).
+![Plano de Bilbao tras el cerco carlista de 1874](docs/imgs/mayo74bio.jpg).
 
 Me gustaría darle un aspecto elegante y profesional porque ahora mismo es más soso que una pasillo de hospital. Ya veremos como sigue la cosa...
 

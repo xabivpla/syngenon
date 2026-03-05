@@ -7,7 +7,7 @@ Esta *página web* es una prueba con [Just the Docs] como base. Mi intención es
 
 Ha sido inspirada e influenciada por los [López, de Buenos Aires] y los [Ordóñez, de Pamplona](https://www.geneaordonez.es/ordonez.php).
 
-Por el momento solo estoy trasteando y no tengo ni idea de la mitad de lo que hago en esta web. Por ejemplo: esto es una fotografía que más adelante cambiaré: ![Proyecto del camino de Santiago en bicicleta por una ruta algo caprichosa](.docs/imgs/Mi Camino.PNG).
+Por el momento solo estoy trasteando y no tengo ni idea de la mitad de lo que hago en esta web. Por ejemplo: esto es una fotografía que más adelante cambiaré: ![Plano de Bilbao tras el cerco carlista de 1874](.docs/imgs/mayo74bio.png).
 
 Ya veremos como sigue la cosa...
 
